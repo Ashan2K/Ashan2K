@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashank</h1>
-<h3 align="center">A passionate frontend developer from Sril lanka</h3>
+<h3 align="center">A passionate frontend developer from Sri lanka</h3>
 
 - 🌱 I’m currently learning **BICT(hons)**
 
